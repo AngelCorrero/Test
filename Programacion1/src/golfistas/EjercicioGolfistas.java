@@ -17,6 +17,7 @@ public class EjercicioGolfistas {
 			System.out.println("Jugador "+(i+1)+": "+punt_golf[i]);
 		}
 		imprimePodio(punt_golf);
+		System.out.println("Stay Tunes, Folks");
 
 	}
 	
