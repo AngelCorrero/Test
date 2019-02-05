@@ -18,6 +18,7 @@ public class EjercicioGolfistas {
 		}
 		imprimePodio(punt_golf);
 		System.out.println("Stay Tunes, Folks");
+		System.out.println("Inside of every demon is a rainbow");
 
 	}
 	
